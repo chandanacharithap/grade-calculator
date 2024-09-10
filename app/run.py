@@ -7,7 +7,7 @@ from grade_calculator import GradeCalculator
 # This runs the grade calculation.
 
 # Instatiate Grade and Weights objects
-my_grades = Grades()
+my_grades = Grades(5,5,20,30,40)
 weights = GradeWeights()
 
 # Set grades achieved so far

@@ -8,7 +8,7 @@ class GradeWeights:
     """
     
     def __init__(self) -> None:
-        self.quizzes = 0.1
-        self.midterm = 0.2
-        self.project = 0.4
-        self.final = 0.3
+        self.quizzes = 5
+        self.midterm = 20
+        self.project = 30
+        self.final = 40
